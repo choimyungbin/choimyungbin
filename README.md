@@ -1,5 +1,5 @@
 # Hi, I'm Jessica 👋
-**AI Engineer | ex-Software Engineer**
+**AI Engineer | Software Engineer**
 
 I build **production-grade AI systems** with a focus on  
 **AI agents and real-time AI applications**.
